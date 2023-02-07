@@ -1,0 +1,16 @@
+git init
+
+git status "Nome do arquivo"
+
+git add
+git commit -m "Description"
+
+git log
+
+git diff
+
+git commit --amend
+git reset HEAD "Nome do arquivo"
+git checkout -- “Nome do arquivo”
+
+git merge “nome da branch”

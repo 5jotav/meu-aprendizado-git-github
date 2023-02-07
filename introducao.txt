@@ -1,0 +1,9 @@
+git config --global user.name "Meu nome"
+git config --global user.email "Meu email"
+
+git init
+
+git status "Nome do arquivo"
+
+git add
+git commit -m "Description"

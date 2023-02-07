@@ -1,0 +1,9 @@
+git branch
+
+git branch “Nome da branch”
+
+git checkout “Nome da branch”
+
+git branch –D “Nome da branch”
+
+git checkout –b “Nome da branch”

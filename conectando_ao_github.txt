@@ -1,0 +1,5 @@
+git remote add origin “Link do repositório”
+
+git push origin máster
+
+git pull origin máster
